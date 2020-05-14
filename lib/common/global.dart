@@ -1,0 +1,1 @@
+const roleType = 26946;
